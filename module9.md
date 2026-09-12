@@ -134,7 +134,7 @@ void enqueue(float data)
 ## Result:
 Thus, the program to insert elements in queue using array is verified successfully.
 
-# EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY
+# EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY.
 ## Aim:
 To create a function in C that deletes an element from a queue implemented using an array.
 
